@@ -1,0 +1,263 @@
+.shoecol1image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol1image1:hover ~ .shoecol1image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 1s;
+  }
+  
+  .shoecol1image1:hover ~ .shoecol1image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 2s;
+  }
+  
+  .shoecol1image1:hover ~ .shoecol1image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 3s;
+  }
+  
+  .shoecol2image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol2image1:hover ~ .shoecol2image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 1s;
+  }
+  
+  .shoecol2image1:hover ~ .shoecol2image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 2s;
+  }
+  
+  .shoecol2image1:hover ~ .shoecol2image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 3s;
+  }
+  
+  .shoecol3image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol3image1:hover ~ .shoecol3image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 1s;
+  }
+  
+  .shoecol3image1:hover ~ .shoecol3image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 2s;
+  }
+  
+  .shoecol3image1:hover ~ .shoecol3image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 3s;
+  }
+  
+  .shoecol4image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol4image1:hover ~ .shoecol3image1 {
+  display: none;
+  }
+  
+  .shoecol4image1:hover ~ .shoecol4image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 1s;
+  }
+  
+  .shoecol4image1:hover ~ .shoecol4image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 2s;
+  }
+  
+  .shoecol4image1:hover ~ .shoecol4image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 3s;
+  }
+  .shoecol5image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol5image1:hover ~ .shoecol5image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 1s;
+  }
+  
+  .shoecol5image1:hover ~ .shoecol5image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 2s;
+  }
+  
+  .shoecol5image1:hover ~ .shoecol5image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 3s;
+  }
+  
+  .shoecol6image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol6image1:hover ~ .shoecol6image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 1s;
+  }
+  
+  .shoecol6image1:hover ~ .shoecol6image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 2s;
+  }
+  
+  .shoecol6image1:hover ~ .shoecol6image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 3s;
+  }
+  
+  .shoecol7image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol7image1:hover ~ .shoecol7image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 1s;
+  }
+  
+  .shoecol7image1:hover ~ .shoecol7image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 2s;
+  }
+  
+  .shoecol7image1:hover ~ .shoecol7image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease reverse;
+  transition-delay: 3s;
+  }
+  
+  .shoecol8image1 img:hover {
+  transition: width 0.7s ease-in-out;
+  width: 350px;
+  }
+  
+  .shoecol8image1:hover ~ .shoecol7image1 {
+  display: none;
+  }
+  
+  .shoecol8image1:hover ~ .shoecol8image2 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 1s;
+  }
+  
+  .shoecol8image1:hover ~ .shoecol8image3 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 2s;
+  }
+  
+  .shoecol8image1:hover ~ .shoecol8image4 {
+  transform: scale(0.5);
+  width: 410px;
+  display: block;
+  opacity: 100%;
+  transition: width 0.7s ease;
+  transition-delay: 3s;
+  }
+  

@@ -1,0 +1,233 @@
+html {
+  background-color: #51c5df;
+  }
+  
+  * {
+  margin: 0;
+  padding: 0;
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  }
+  
+  .shoeheader {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  width: 100vw;
+  }
+  
+  .logo img {
+  width: 247px;
+  transform: rotate(45deg);
+  margin: 65px 0px;
+  }
+  
+  .logo {
+  align-items: center;
+  margin: 0px 200px;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .logoname {
+  display: flex;
+  align-items: center;
+  }
+  
+  .search input {
+  width: 634px;
+  height: 47px;
+  border: 6px solid #316062d1;
+  border-radius: 21px;
+  background-color: #00dbff54;
+  color: #000;
+  margin: 0px 75px;
+  font-size: 43px;
+  }
+  
+  .search .srchbtn {
+  width: 83px;
+  height: 39px;
+  border: 3px solid #fb76004f;
+  border-radius: 25px;
+  background-color: #fff788;
+  color: black;
+  margin: 0px -26px;
+  font-size: 20px;
+  text-align: center;
+  }
+  
+  .search {
+  display: flex;
+  align-items: center;
+  }
+  
+  .shoppingcart {
+  display: flex;
+  width: 65px;
+  }
+  
+  .shoppingcart img {
+    width: 70px;
+  }
+  
+  .logo h1 {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 64px;
+  margin: -40px 2px;
+  }
+  
+  .shoearea {
+  display: flex;
+  flex-direction: column;
+  margin: 90px 0px;
+  }
+  
+  .shoecollection1 {
+  display: flex;
+  flex-direction: row;
+  margin: 22px 0px;
+  }
+  
+  .shoecollection2 {
+  display: flex;
+  flex-direction: row;
+  }
+  main {
+  display: flex;
+  flex-direction: row;
+  }
+  nav {
+  display: inline-flex;
+  }
+  
+  .shoepanel {
+  display: flex;
+  flex-direction: row;
+  }
+  
+  .panel1 {
+  font-size: 26px;
+  width: 154px;
+  height: 34px;
+  border: 6px solid #ffffff7a;
+  border-radius: 44px;
+  background-color: #ffd8d83d;
+  color: white;
+  text-align: center;
+  margin: 0px 28px;
+  }
+  
+  .panel2 {
+  font-size: 26px;
+  width: 154px;
+  height: 34px;
+  border: 6px solid #ffffff7a;
+  border-radius: 44px;
+  background-color: #ffd8d83d;
+  color: white;
+  text-align: center;
+  margin: 0px 28px;
+  }
+  
+  .panel3 {
+  font-size: 26px;
+  width: 154px;
+  height: 34px;
+  border: 6px solid #ffffff7a;
+  border-radius: 44px;
+  background-color: #ffd8d83d;
+  color: white;
+  text-align: center;
+  margin: 0px 28px;
+  }
+  
+  .panel4 {
+  font-size: 26px;
+  width: 154px;
+  height: 34px;
+  border: 6px solid #ffffff7a;
+  border-radius: 44px;
+  background-color: #ffd8d83d;
+  color: white;
+  text-align: center;
+  margin: 0px 28px;
+  }
+  
+  .panel1:hover {
+  transition: 0.4s ease;
+  font-size: 35px;
+  width: 202px;
+  height: 53px;
+  }
+  
+  .panel2:hover {
+  transition: 0.4s ease;
+  font-size: 35px;
+  width: 202px;
+  height: 53px;
+  }
+  .panel3:hover {
+  transition: 0.4s ease;
+  font-size: 35px;
+  width: 202px;
+  height: 53px;
+  }
+  .panel4:hover {
+  transition: 0.4s ease;
+  font-size: 35px;
+  width: 202px;
+  height: 53px;
+  }
+  
+  .search input:hover {
+  transition: 0.4s ease;
+  transform: scale(1.1);
+  }
+  .srchbtn:hover {
+  transition: 0.4s ease;
+  transform: scale(1.3);
+  }
+  
+  footer {
+  font-size: 45px;
+  color: white;
+  margin: 0px 70px;
+  }
+  
+  footer:hover {
+  transition: 1s ease;
+  transform: scale(1.05);
+  }
+  
+  .bannerimage img {
+  display: flex;
+  right: -94px;
+  bottom: -143px;
+  width: 731.7px;
+  border-radius: 52px;
+  position: relative;
+  }
+  
+  .bannerimage :hover {
+  transition: 1s ease;
+  transform: scale(1.1);
+  }
+  
+  .bannerimage p {
+  font-size: 54px;
+  position: relative;
+  right: -162px;
+  bottom: 107px;
+  background-color: #00000082;
+  color: white;
+  width: 644px;
+  text-align: center;
+  border-radius: 61px;
+  height: 70px;
+  }
+  
